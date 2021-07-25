@@ -20,6 +20,6 @@ Com este projeto pude aprender mais sobre o Android Studio e a linguagem Kotlin 
 
 <img align="left" width="250px" height="500px" src="https://user-images.githubusercontent.com/60768726/126884856-dc00bf27-d63a-4e6d-a8de-60d43c96f4e2.jpeg">
 
-<img align="right" width="250px" height="500px" src="https://user-images.githubusercontent.com/60768726/126884879-6e95a6b2-c840-49e8-9618-7b48cab61be1.jpeg">
+<img  width="250px" height="500px" src="https://user-images.githubusercontent.com/60768726/126884879-6e95a6b2-c840-49e8-9618-7b48cab61be1.jpeg">
 
 <img align="center" width="250px" height="500px" src="https://user-images.githubusercontent.com/60768726/126884871-25fc1831-e4e1-49f5-ac44-8cfab2e58835.jpeg">
