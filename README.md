@@ -18,7 +18,7 @@ O objetivo do projeto é criar um App de To Do List(Lista de Coisas a Fazer) do 
 
 Com este projeto pude aprender mais sobre o Android Studio e a linguagem Kotlin e isso é muito gratificante!🙏
 
-<img align="left" width="100px" height="200px" src="https://user-images.githubusercontent.com/60768726/126884856-dc00bf27-d63a-4e6d-a8de-60d43c96f4e2.jpeg">
+<img align="left" width="250px" height="500px" src="https://user-images.githubusercontent.com/60768726/126884856-dc00bf27-d63a-4e6d-a8de-60d43c96f4e2.jpeg">
 
 <img align="center" src="https://user-images.githubusercontent.com/60768726/126884871-25fc1831-e4e1-49f5-ac44-8cfab2e58835.jpeg">
 
